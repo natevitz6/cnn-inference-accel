@@ -1,0 +1,27 @@
+# Quartus build files
+*.qdb
+*.qsf
+*.qpf
+*.sopcinfo
+*.rpt
+*.summary
+*.chg
+*.bak
+db/
+incremental_db/
+output_files/
+
+# Python cache
+__pycache__/
+*.pyc
+
+# Jupyter notebook checkpoints
+.ipynb_checkpoints/
+
+# Generated weight files
+*.hex
+*.json
+
+# OS files
+.DS_Store
+Thumbs.db
